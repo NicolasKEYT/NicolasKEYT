@@ -7,7 +7,7 @@
 <p>Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie (7º semestre, conclusão em 2026), com foco em construir carreira na intersecção entre Governança de TI, Cloud Computing e Cultura DevOps.</p>
 
 <ul>
-<li>🎓 Graduando em Sistemas de Informação (7º semestre) no Mackenzie</li>
+<li>🎓 Graduando em Sistemas de Informação (8º semestre) no Mackenzie</li>
 <li>💼 Buscando estágio em Governança de TI, DevOps ou Eng. de Software</li>
 <li>💻 Desenvolvendo o Klass (ERP Open Source)</li>
 <li>⚙️ Experiência prática com infraestrutura em nuvem e modelagem de sistemas</li>
