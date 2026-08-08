@@ -4,7 +4,7 @@
 <tr>
 <td width="55%" valign="top">
 <h2>Sobre mim</h2>
-<p>Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie (7º semestre, conclusão em 2026), com foco em construir carreira na intersecção entre Governança de TI, Cloud Computing e Cultura DevOps.</p>
+<p>Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie (8º semestre, conclusão em 2026), com foco em construir carreira na intersecção entre Governança de TI, Cloud Computing e Cultura DevOps.</p>
 
 <ul>
 <li>🎓 Graduando em Sistemas de Informação (8º semestre) no Mackenzie</li>
